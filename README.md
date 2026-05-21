@@ -1,4 +1,4 @@
-# youtube-content-analysis-sql-
+# youtube-content-analysis-sql
 
  ## Objective
 Analyze YouTube content performance using SQL queries and KPI analysis.
